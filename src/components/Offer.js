@@ -1,7 +1,6 @@
 import React from 'react'
 import img from './offer.jpg'
 import './offer.css'
-import {Link} from 'react-router-dom'
 import { Button } from './Button'
 
 function Offer() {
